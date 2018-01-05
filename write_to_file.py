@@ -8,5 +8,9 @@ def plus (a,b):
     result = a+b
     print(result)
 
+def minus (a,b):
+    result = a-b
+    print(result)
 
 plus(3,4)
+minus(5,2)
