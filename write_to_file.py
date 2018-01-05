@@ -1,5 +1,5 @@
 file = open("testfile.txt", "w")
 
-file.writelines(["Hello Word", "This is new text file", "This is another line", "Why? Because we can."])
+file.writelines(["Hello Word"/n, "This is new text file"/n, "This is another line"/n, "Why? Because we can./n"])
 
 file.close()
